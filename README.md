@@ -1,3 +1,3 @@
-# Movie App 2020 .
+# Movie App 2020
 
-ReactJS Fundamentals Course (2020 Update!) dsda
+ReactJS Fundamentals Course (2020 Update!)
